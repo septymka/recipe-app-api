@@ -26,5 +26,3 @@ ENV PATH="/py/bin:$PATH"
 
 
 USER django-user
-
-RUN chown django-user:django-user -R /app/
