@@ -1,2 +1,4 @@
 # recipe-app-api
-Django REST Framework, udemy course
+Django REST Framework,
+based on udemy course: 
+Build a Backend REST API with Python & Django - Advanced made by Mark Winterbottom.
